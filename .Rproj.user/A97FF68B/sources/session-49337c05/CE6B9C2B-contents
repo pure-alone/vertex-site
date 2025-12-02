@@ -1,0 +1,28 @@
+---
+title: "About & Services"
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+---
+
+# About Vertex Solutions
+
+Vertex Solutions was founded to help SMEs and startups build practical digital products without heavy budgets. We combine pragmatic engineering and simple design to deliver fast results.
+
+## Mission
+
+To help small teams ship polished, maintainable digital products on time — with a focus on tested prototypes and measurable outcomes.
+
+## Services
+
+- **Product Strategy & UX:** user research, wireframes, prototyping
+- **Web Development:** R/Shiny, R Markdown websites, static sites, Node.js
+- **Data & Analytics:** dashboards, data pipelines, light ML models
+- **Deployment & DevOps:** GitHub Actions, containerization, automated builds
+
+## Target market
+
+Small-to-medium businesses, early-stage startups, and university research groups who need production-ready prototypes and documentation.
+
+[Meet the team →](team.html){.btn}

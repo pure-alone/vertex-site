@@ -1,0 +1,21 @@
+---
+title: "Case Studies"
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+---
+
+# Case Studies & Example Projects
+
+## 1) Customer Feedback Dashboard
+**Summary:** A lightweight dashboard that aggregates customer survey responses and shows trends over time.  
+**Key skills demonstrated:** data cleaning, visualization, R Markdown, charting.  
+**Outcome:** Reduced manual report time from 3 hours to 10 minutes.
+
+## 2) E-commerce Prototype (MVP)
+**Summary:** Small prototype storefront with product pages and contact form.  
+**Key skills demonstrated:** static site composition, responsive layout, GitHub Pages deployment.  
+**Outcome:** Functional prototype validated with 10 pilot users.
+
+Want more details? See repository for full code and data examples: https://github.com/pure-alone/vertex-site

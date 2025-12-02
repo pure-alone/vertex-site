@@ -1,0 +1,16 @@
+name: "Vertex Solutions"
+output_dir: "docs"
+navbar:
+  title: "Vertex Solutions"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About / Services"
+      href: about.html
+    - text: "Team"
+      href: team.html
+    - text: "Case Studies"
+      href: projects.html
+  right:
+    - text: "GitHub"
+      href: https://github.com/yourusername/repository-name

@@ -1,0 +1,31 @@
+---
+title: "Vertex Solutions — Home"
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+---
+
+# Vertex Solutions
+
+**Tagline:** Smart digital products for small & medium businesses.
+
+Vertex Solutions helps companies modernize their customer facing services with web & data solutions. We focus on product design, lightweight web applications, and analytics that deliver measurable ROI.
+
+- **Value proposition:** Fast prototyping → validated MVP → production-ready site
+- **What we do:** Web apps, analytics dashboards, UX prototyping, cloud deployment
+
+[Learn more about our services →](about.html){.btn}
+
+---
+
+## Quick contact
+
+- Email: contact@vertex.example
+- GitHub: https://github.com/pure-alone/vertex-site
+
+---
+
+## Call to action
+
+Interested in a consult? [View case studies →](projects.html){.btn}

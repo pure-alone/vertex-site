@@ -1,0 +1,25 @@
+---
+title: "Website Deployment Reflection"
+author:
+  - Yifan Liu, 667267868
+  - Jingfu Wang, 665084570
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+---
+
+## Website Information
+
+**Live Website URL:** https://pure-alone.github.io/vertex-site  
+**GitHub Repository URL:** https://github.com/pure-alone/vertex-site  
+**Project Type:** Group Website (Business)
+
+## Reflection
+
+We built and deployed a group business website to GitHub Pages using R Markdown. Through the process we learned how `rmarkdown::render_site()` generates a multi-page site, how to configure `_site.yml` to output to the `docs/` folder for GitHub Pages, and how to automate builds using GitHub Actions. The key technical challenge was configuring the Actions workflow to render the site and push the generated `docs/` files back to the main branch; we solved it by using a simple action script that installs R, renders the site and commits `docs/`. Collaboration required frequent commits and branching to avoid conflicts; we used feature branches and code review via pull requests.
+
+## Website Overview
+
+A small company site containing a home page, an about/services page, a team page, and two case studies demonstrating web & analytics work. The site includes contact pointers and links to the GitHub repository.

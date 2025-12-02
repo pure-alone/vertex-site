@@ -1,0 +1,23 @@
+---
+title: "Team"
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+---
+
+# Our Team
+
+## Yifan Liu
+- **Role:** Frontend & Deployment
+- **Student ID:** 667267868
+- **Skills:** R Markdown / static site generation, GitHub Actions, HTML/CSS, basic JS
+- **Contact:** yifan.liu@example.com
+
+## Jingfu Wang
+- **Role:** Backend & Data
+- **Student ID:** 665084570
+- **Skills:** Data pipelines, R, lightweight model prototyping, documentation
+- **Contact:** jingfu.wang@example.com
+
+> The team collaborated on information architecture, content, and site deployment.
